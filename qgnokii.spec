@@ -10,6 +10,7 @@ Source0:	http://dl.sourceforge.net/qgnokii/%{name}-%{version}.tar.gz
 URL:		http://qgnokii.sourceforge.net/
 BuildRequires:	qmake
 BuildRequires:	rpmbuild(macros) >= 1.129
+Requires:	gnokii
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
