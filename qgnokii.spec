@@ -1,12 +1,12 @@
 Summary:	QGnokii - Qt3 frontend for Gnokii
 Summary(pl):	QGnokii - nak³adka Qt3 dla Gnokii
 Name:		qgnokii
-Version:	0.4.1
+Version:	0.4.2
 Release:	0.1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/qgnokii/%{name}-%{version}.tar.gz
-# Source0-md5:	5626f9b41c79bdb633c76c8fd6b892d1
+# Source0-md5:	6eadde2786620cf9d2f9ec251553a04b
 URL:		http://qgnokii.sourceforge.net/
 BuildRequires:	qmake
 BuildRequires:	rpmbuild(macros) >= 1.129
