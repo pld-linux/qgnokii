@@ -1,5 +1,5 @@
 Summary:	QGnokii - Qt3 frontend for Gnokii
-Summary(pl):	QGnokii - nak³adka Qt3 dla Gnokii
+Summary(pl.UTF-8):   QGnokii - nakÅ‚adka Qt3 dla Gnokii
 Name:		qgnokii
 Version:	0.4.2
 Release:	0.1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 QGnokii is an alternative frontend for Gnokii written in QT3.
 
-%description -l pl
-QGnokii jest alternatywn± nak³adk± dla Gnokii, napisan± w QT3.
+%description -l pl.UTF-8
+QGnokii jest alternatywnÄ… nakÅ‚adkÄ… dla Gnokii, napisanÄ… w QT3.
 
 %prep
 %setup -q
