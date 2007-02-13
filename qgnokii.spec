@@ -1,5 +1,5 @@
 Summary:	QGnokii - Qt3 frontend for Gnokii
-Summary(pl.UTF-8):   QGnokii - nakładka Qt3 dla Gnokii
+Summary(pl.UTF-8):	QGnokii - nakładka Qt3 dla Gnokii
 Name:		qgnokii
 Version:	0.4.2
 Release:	0.1
